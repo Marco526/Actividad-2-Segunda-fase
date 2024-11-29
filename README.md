@@ -2,7 +2,11 @@
 
 # Ejecutar la Aplicación
 -Abrir Studio code 
+
+
 -Teclear ' npm install` para los controladores
+
+
 -Después ejecutar el comando `npm start` en el terminal. Si trabajas con Visual Studio Code, puedes abrir el terminal con el atajo de teclado `ctrl + ñ` si tu teclado está en español y con ``ctrl + ` `` si tu teclado está en inglés.
 
 Al empezar a estudiar Japonés mucha gente no sabe por donde empezar. 
