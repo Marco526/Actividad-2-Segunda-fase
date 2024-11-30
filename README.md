@@ -14,5 +14,7 @@ Es por eso que el contador de horas nos da una idea de por donde comenzar y
 adecuar un plan más personalizado. 
 Mediante el contador de horas por ejemplo para una persona que quiere estudiar en Japón el Gobierno solicita un minimo de 150 horas certificadas para poder residir de 3 meses a 2 años con visa de estudiante. 
 
-Se anexa el cronograma del sprint 2 
+Se anexa el link cronograma del sprint 2 
 
+[
+](https://drive.google.com/file/d/15-yab4D7QuJbl_Ntm2NDUtIQLVx6r7tS/view?usp=sharing)
